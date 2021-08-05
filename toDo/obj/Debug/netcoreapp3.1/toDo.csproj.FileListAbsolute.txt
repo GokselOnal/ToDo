@@ -1,0 +1,13 @@
+C:\Users\MSI\Desktop\C#\Projeler\toDo\obj\Debug\netcoreapp3.1\toDo.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\C#\Projeler\toDo\obj\Debug\netcoreapp3.1\toDo.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\C#\Projeler\toDo\obj\Debug\netcoreapp3.1\toDo.AssemblyInfo.cs
+C:\Users\MSI\Desktop\C#\Projeler\toDo\obj\Debug\netcoreapp3.1\toDo.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\C#\Projeler\toDo\bin\Debug\netcoreapp3.1\toDo.exe
+C:\Users\MSI\Desktop\C#\Projeler\toDo\bin\Debug\netcoreapp3.1\toDo.deps.json
+C:\Users\MSI\Desktop\C#\Projeler\toDo\bin\Debug\netcoreapp3.1\toDo.runtimeconfig.json
+C:\Users\MSI\Desktop\C#\Projeler\toDo\bin\Debug\netcoreapp3.1\toDo.runtimeconfig.dev.json
+C:\Users\MSI\Desktop\C#\Projeler\toDo\bin\Debug\netcoreapp3.1\toDo.dll
+C:\Users\MSI\Desktop\C#\Projeler\toDo\bin\Debug\netcoreapp3.1\toDo.pdb
+C:\Users\MSI\Desktop\C#\Projeler\toDo\obj\Debug\netcoreapp3.1\toDo.dll
+C:\Users\MSI\Desktop\C#\Projeler\toDo\obj\Debug\netcoreapp3.1\toDo.pdb
+C:\Users\MSI\Desktop\C#\Projeler\toDo\obj\Debug\netcoreapp3.1\toDo.genruntimeconfig.cache
